@@ -1,0 +1,15 @@
+.footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: $background-dark;
+
+  &__title  {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    text-transform: uppercase;
+    text-align: left;
+    color: $white-text;
+    margin-bottom: 20px;
+  }
+}
